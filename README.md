@@ -1,3 +1,9 @@
+# zz-aa-dep
+
+Owned hard fork dependency for a project/product. zz prefix for readability/ordering. Code preserved.
+
+---
+
 <!-- AI-DD-META:START -->
 <!-- This repository is planned, maintained, and managed by AI Agents only. -->
 <!-- Slop issues are expected and intentionally present as part of an HITL-less -->
@@ -144,4 +150,4 @@ runs: `SphereManager` → `WorldSphereMod` → `CompoundMeshes/MeshManager` upst
 we pin to the WSM3D-extended `CompoundSpheres/` lineage in this fork.
 
 See `upstream/README.upstream.md` for MelvinShwuaner's upstream README, and
-`../../docs/upstream-divergence-audit.md` (cross-repo) for the full divergence matrix.
+`../../docs/upstream-divergence-audit.md` (cross-repo) for the full divergence matrix.
